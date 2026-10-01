@@ -46,13 +46,8 @@ cibersecurity-desafio-ransomware/
     ├── README.md
     ├── 01-criptografia.png
     └── 02-descriptografia.png
----
+```
 
 ## Funcionamento
 
 O projeto utiliza uma pasta chamada `laboratorio`, criada exclusivamente para os testes.
-
-O arquivo utilizado no laboratório é:
-
-```text
-laboratorio/arquivo_teste.txt
