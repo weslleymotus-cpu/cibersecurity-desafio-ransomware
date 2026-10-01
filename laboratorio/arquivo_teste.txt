@@ -1,0 +1,5 @@
+ARQUIVO DE TESTE - LABORATÓRIO DE CIBERSEGURANÇA
+
+Este arquivo existe exclusivamente para demonstrar criptografia e descriptografia em ambiente controlado.
+
+Nenhum arquivo pessoal deve ser utilizado neste laboratório.
